@@ -1,2 +1,1 @@
-# react-ts-demo
-React TypeScript App
+### React app use TypeScript
